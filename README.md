@@ -2,22 +2,21 @@
 
 ---
 
-## 개발 공고 리마인드 (종료된 것들은 삭제하겠습니다.)
-
-- [SKT ICT Family](https://programmers.co.kr/competitions/2231)
-- [나이스 그룹 채용](https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=89521)
-
 ## Frontend
 
 - 고퀄리티 프론트엔드 기술레터 씨렙[Link](https://clelab.io/)
 - JHipster 로 빠르게 스프링과 Vue 같이 사용해보자[Link](https://www.jhipster.tech/)
 - 네이버 프론트 엔드 뉴스[Link](https://github.com/naver/fe-news)
 - 네이버 D2[Link](https://d2.naver.com/home)
+- Web -> Vite[LINK](https://engineering.ab180.co/stories/webpack-to-vite)
+- 타입스크립트는 왜 낯설까[LINK](https://www.stevy.dev/why-typescript-difficult/)
+- 3월 네이버 프론트엔드 뉴스[LINK](https://github.com/naver/fe-news/blob/master/issues/2022-03.md)
 
 ## Backend
 
 - OpenApiSpec.을 이용한 더욱 효과적인 API 문서화[Link](https://traeper.tistory.com/219)
 - 제일 간단한 서버리스 파이어베이스[Link](https://firebase.google.com/docs?hl=ko)
+- 배포를 조금 더 간단하게[LINK](https://app.netlify.com/drop)
 
 ## Infra
 
@@ -27,6 +26,8 @@
 
 - Flutter vs React Native[Link](https://blog.wishket.com/%ED%94%8C%EB%9F%AC%ED%84%B0-vs-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-2021%EB%85%84%EC%9D%98-%EC%8A%B9%EC%9E%90%EB%8A%94/)
 - 안드로이드 개발자 로드맵[Link](https://github.com/skydoves/android-developer-roadmap/blob/main/README_KR.md)
+- Now in Android #57[link](https://medium.com/androiddevelopers/now-in-android-57-ac4a670e361c)
+- 안드로이드13 알림 권한[LINK](https://proandroiddev.com/notification-runtime-permission-android13-190c796254d5)
 
 ## tools
 
@@ -36,6 +37,7 @@
 - 깃크라켄[Link](https://www.gitkraken.com/)
 - 깃허브 데스크탑[Link](https://desktop.github.com/)
 - 클라우드 크래프트[Link](https://www.cloudcraft.co/)
+- CSS 레이아웃 제네레이터[LINK](https://layout.bradwoods.io/customize)
 
 ---
 
@@ -56,3 +58,8 @@
 3. 가비지 컬렉션의 과정을 설명해주세요 (Young/Old)
 4. 캐시에 대해서 설명해주세요(OS)
 5. 퀵소트에 대해 설명해주세요(왜 최악은 O(n^2) 일까요?)(알고리즘)
+6. 프로세스와 스레드의 차이를 설명해주세요(OS)
+7. 혹시 Http code 에 대해서 설명해주세요 (Network)
+8. 데드락에 대해서 설명해주세요 (OS)
+9. Java에서 싱글톤을 만드는 방식이 무엇일까요?
+10. 혹시 OAuth를 구현해보셨나요?
